@@ -18,6 +18,17 @@ The objective of Alpha-Beta pruning is to optimize the Minimax algorithm by:
 - Reducing the number of nodes that need to be evaluated, thus speeding up the algorithm.
 - Pruning parts of the search tree that are guaranteed to lead to suboptimal outcomes, which further reduces the number of nodes to be evaluated.
 
+# What's New?
+I've made some changes and improvement with each having its own purpose:
+- Timer For Player (User)
+The timer feature was added into the code with the purpose of increasing the challenge for the player, by putting them under a time constraint of 5 seconds.
+
+- First Turn Option
+The choice on who should start was done to give the player more flexibility in gameplay by allowing them to choose if they would like  to start first or to let the AI start first. To do this we use Python’s TKinter module to create a selectable radio button  that will assign a value to the variable that sets the turn.
+
+Difficulty Options
+With our new difficulty option, players can adjust the difficulty of the game to suit their playstyle. This was done by assigning values from the TKinter module to the “Depth” variable that will be used to define the depth of the tree search in the minimax algorithm. There will be three options for difficulty in this game: Easy,Medium,and Hard with each having their own integer value. The easy option will have the lowest integer (1), medium will have (3), and hard will have the largest integer among the three which is (5) this is because in minimax 
+
 # Flowchart
 
 ![Flowchart](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/2f938d08-0fce-481d-bfe8-5d3d7a85093b)
