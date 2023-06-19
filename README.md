@@ -4,7 +4,6 @@ One problem in traditional Connect Four gameplay is that it can be difficult for
 
 ![Picture1](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/2559210f-50bb-4013-993d-47b663a47666)
 
-
 To overcome this problem, artificial intelligence techniques such as the Minimax algorithm and Alpha-Beta pruning can be used to help determine the best move to make in any given situation.
 
 The main objective of implementing the Minimax algorithm and Alpha-Beta pruning is to develop efficient decision-making algorithms for two-player, zero-sum games, such as Connect Four. The algorithm is designed to help a computer program to play the game at a level comparable to, or even better than, human players. 
@@ -18,6 +17,10 @@ Specifically, the objectives of the Minimax algorithm are:
 The objective of Alpha-Beta pruning is to optimize the Minimax algorithm by:
 - Reducing the number of nodes that need to be evaluated, thus speeding up the algorithm.
 - Pruning parts of the search tree that are guaranteed to lead to suboptimal outcomes, which further reduces the number of nodes to be evaluated.
+
+# Flowchart
+
+![Flowchart](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/2f938d08-0fce-481d-bfe8-5d3d7a85093b)
 
 # Screenshots
 
