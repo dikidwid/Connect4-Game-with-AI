@@ -26,7 +26,7 @@ The timer feature was added into the code with the purpose of increasing the cha
 - First Turn Option
 The choice on who should start was done to give the player more flexibility in gameplay by allowing them to choose if they would like  to start first or to let the AI start first. To do this we use Python’s TKinter module to create a selectable radio button  that will assign a value to the variable that sets the turn.
 
-Difficulty Options
+- Difficulty Options
 With our new difficulty option, players can adjust the difficulty of the game to suit their playstyle. This was done by assigning values from the TKinter module to the “Depth” variable that will be used to define the depth of the tree search in the minimax algorithm. There will be three options for difficulty in this game: Easy,Medium,and Hard with each having their own integer value. The easy option will have the lowest integer (1), medium will have (3), and hard will have the largest integer among the three which is (5) this is because in minimax 
 
 # Flowchart
