@@ -32,3 +32,5 @@ The objective of Alpha-Beta pruning is to optimize the Minimax algorithm by:
 
 ![Picture6](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/aa872c77-1f6d-4b60-8b83-8c5b8dd46fbb)
 
+# References
+Video walkthrough on programming this game: https://youtu.be/UYgyRArKDEs
