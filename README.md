@@ -19,7 +19,7 @@ The objective of Alpha-Beta pruning is to optimize the Minimax algorithm by:
 - Pruning parts of the search tree that are guaranteed to lead to suboptimal outcomes, which further reduces the number of nodes to be evaluated.
 
 # What's New?
-I've made some changes and improvement with each having its own purpose:
+We've made some changes and improvement with each having its own purpose:
 - Timer For Player (User)
 The timer feature was added into the code with the purpose of increasing the challenge for the player, by putting them under a time constraint of 5 seconds.
 
