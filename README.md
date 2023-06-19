@@ -30,18 +30,13 @@ The choice on who should start was done to give the player more flexibility in g
 With our new difficulty option, players can adjust the difficulty of the game to suit their playstyle. This was done by assigning values from the TKinter module to the “Depth” variable that will be used to define the depth of the tree search in the minimax algorithm. There will be three options for difficulty in this game: Easy,Medium,and Hard with each having their own integer value. The easy option will have the lowest integer (1), medium will have (3), and hard will have the largest integer among the three which is (5) this is because in minimax 
 
 # Flowchart
-
-![Flowchart](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/2f938d08-0fce-481d-bfe8-5d3d7a85093b)
+![Blank diagram (11)](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/ca791dde-62b9-4c1c-9f8a-4f9e62f2f64a)
 
 # Screenshots
-
-![Picture2](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/8e216b7c-0d7e-4e26-965b-8543da8a91f2)
-
-![Picture3](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/f05b9821-89c0-462f-b093-c74f6cb46b0c)
-
-![Picture4](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/d54f36b9-8b75-40b2-83f5-9cf63105ce8d)
-
-![Picture6](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/aa872c77-1f6d-4b60-8b83-8c5b8dd46fbb)
+![pasted image 0](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/afedab00-bc9e-4cf4-9e5e-d436f94e0f02)
+![pasted image 0-2](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/6ddda60c-53eb-4096-82d1-a962b813a7b2)
+![pasted image 0-3](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/d8c1d645-820e-4dac-bb71-2183c638e3a9)
+![pasted image 0-4](https://github.com/dikidwid/Connect4-Game-with-AI/assets/92709211/7279d047-f3b1-4707-b74a-acb563563420)
 
 # References
 Video walkthrough on programming this game: https://youtu.be/UYgyRArKDEs
